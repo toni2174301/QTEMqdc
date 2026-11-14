@@ -1,0 +1,6 @@
+google-genai>=1.40,<3
+yfinance>=0.2.66,<2
+exchange-calendars>=4.9,<5
+pandas>=2.2,<3
+numpy>=1.26,<3
+python-dateutil>=2.8,<3
