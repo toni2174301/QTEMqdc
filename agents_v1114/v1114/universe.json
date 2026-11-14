@@ -1,0 +1,352 @@
+[
+  {
+    "number": 1,
+    "contest_label": "Global equity (benchmark) WORLD",
+    "isin": "IE00B4L5Y983",
+    "name": "iShares Core MSCI World UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 2,
+    "contest_label": "US equity S&P 500",
+    "isin": "IE00B5BMR087",
+    "name": "iShares Core S&P 500 UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 3,
+    "contest_label": "European equity EUROPE 600",
+    "isin": "LU0908500753",
+    "name": "Amundi Core Stoxx Europe 600 UCITS ETF Acc",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 4,
+    "contest_label": "European equity EURO STOXX 50",
+    "isin": "IE00B53L3W79",
+    "name": "iShares Core EURO STOXX 50 UCITS ETF EUR (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 5,
+    "contest_label": "European equity IBEX 35",
+    "isin": "FR0010655746",
+    "name": "Amundi IBEX 35 UCITS ETF Acc",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 6,
+    "contest_label": "Home market BEL 20",
+    "isin": "FR0000021842",
+    "name": "Amundi BEL 20 UCITS ETF Dist",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 7,
+    "contest_label": "Size & style factors WORLD SMALL CAP",
+    "isin": "IE00BF4RFH31",
+    "name": "iShares MSCI World Small Cap UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 8,
+    "contest_label": "Size & style factors WORLD MIN VOL",
+    "isin": "IE00B8FHGS14",
+    "name": "iShares Edge MSCI World Minimum Volatility UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 9,
+    "contest_label": "Size & style factors DIVIDEND LEADERS",
+    "isin": "NL0011683594",
+    "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 10,
+    "contest_label": "Income strategies NASDAQ INCOME",
+    "isin": "IE000U9J8HX9",
+    "name": "NASDAQ Equity Premium Income Active UCITS ETF USD (Dist)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 11,
+    "contest_label": "Equity / Tech NASDAQ",
+    "isin": "IE00B53SZB19",
+    "name": "iShares NASDAQ 100 UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 12,
+    "contest_label": "Equity / Tech SEMIS",
+    "isin": "IE000I8KRLL9",
+    "name": "iShares MSCI Global Semiconductors UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 13,
+    "contest_label": "Equity / Tech CYBERSEC",
+    "isin": "IE00BYPLS672",
+    "name": "L&G Cyber Security UCITS ETF USD Acc",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 14,
+    "contest_label": "Equity / Tech BIOTECH",
+    "isin": "IE00BQ70R696",
+    "name": "Invesco NASDAQ Biotech UCITS ETF",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 15,
+    "contest_label": "Equity / Tech ROBOTICS",
+    "isin": "IE00BYZK4552",
+    "name": "iShares Automation & Robotics UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 16,
+    "contest_label": "Frontier tech SPACE",
+    "isin": "IE000YU9K6K2",
+    "name": "VanEck Space Innovators UCITS ETF A USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 17,
+    "contest_label": "Frontier tech QUANTUM",
+    "isin": "IE0007Y8Y157",
+    "name": "VanEck Quantum Computing UCITS ETF A USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 18,
+    "contest_label": "Financials EURO BANKS",
+    "isin": "LU1829219390",
+    "name": "Amundi Euro Stoxx Banks UCITS ETF Acc",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 19,
+    "contest_label": "Health care HEALTH CARE",
+    "isin": "IE00BM67HK77",
+    "name": "Xtrackers MSCI World Health Care UCITS ETF 1C",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 20,
+    "contest_label": "Emerging markets EMMKT",
+    "isin": "IE00BKM4GZ66",
+    "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 21,
+    "contest_label": "Emerging markets CHINA LC",
+    "isin": "IE00B02KXK85",
+    "name": "iShares China Large Cap UCITS ETF (Dist)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 22,
+    "contest_label": "Emerging markets INDIA",
+    "isin": "IE00BZCQB185",
+    "name": "iShares MSCI India UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 23,
+    "contest_label": "Emerging markets KOREA",
+    "isin": "LU1900066975",
+    "name": "Amundi MSCI Korea UCITS ETF Acc",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 24,
+    "contest_label": "Emerging markets BRAZIL",
+    "isin": "IE00B0M63516",
+    "name": "iShares MSCI Brazil UCITS ETF USD (Dist)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 25,
+    "contest_label": "Emerging markets CHINA A",
+    "isin": "IE00BQT3WG13",
+    "name": "iShares MSCI China A UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 26,
+    "contest_label": "Energy & commodities WORLD ENERGY",
+    "isin": "IE00BM67HM91",
+    "name": "Xtrackers MSCI World Energy UCITS ETF 1C",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 27,
+    "contest_label": "Energy & commodities OIL & GAS E&P",
+    "isin": "IE00B6R51Z18",
+    "name": "iShares Oil & Gas Exploration & Production UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 28,
+    "contest_label": "Energy transition URANIUM",
+    "isin": "IE000M7V94E1",
+    "name": "VanEck Uranium and Nuclear Technologies UCITS ETF A",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 29,
+    "contest_label": "Energy transition CLEAN ENERGY",
+    "isin": "IE00BK5BCH80",
+    "name": "L&G Clean Energy UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 30,
+    "contest_label": "Energy transition HYDROGEN",
+    "isin": "FR0010930644",
+    "name": "Amundi Global Hydrogen UCITS ETF EUR (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 31,
+    "contest_label": "Industrial & strategic metals COPPER MINERS",
+    "isin": "IE0003Z9E2Y3",
+    "name": "Global X Copper Miners UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 32,
+    "contest_label": "Industrial & strategic metals RARE EARTHS",
+    "isin": "IE0002PG6CA6",
+    "name": "VanEck Rare Earth and Strategic Metals UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 33,
+    "contest_label": "Precious metals GOLD",
+    "isin": "IE00B4ND3602",
+    "name": "iShares Physical Gold ETC",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 34,
+    "contest_label": "Precious metals GOLD MINERS",
+    "isin": "IE00BQQP9F84",
+    "name": "VanEck Gold Miners UCITS ETF",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 35,
+    "contest_label": "Precious metals SILVER MINERS",
+    "isin": "IE000UL6CLP7",
+    "name": "Global X Silver Miners UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 36,
+    "contest_label": "Fixed income / Bonds HIGHY BOND",
+    "isin": "LU1109942653",
+    "name": "Xtrackers II EUR High Yield Corporate Bond UCITS ETF 1D",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 37,
+    "contest_label": "Fixed income / Bonds US TREASURY 20Y",
+    "isin": "LU1407890620",
+    "name": "Amundi US Treasury Bond Long Dated UCITS ETF (Dist)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 38,
+    "contest_label": "Fixed income / Bonds GLOBAL AGG BOND",
+    "isin": "IE00BG47KH54",
+    "name": "Vanguard Global Aggregate Bond UCITS ETF EUR Hedged (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 39,
+    "contest_label": "Fixed income / Bonds EUR GOVT BOND",
+    "isin": "IE00B4WXJJ64",
+    "name": "iShares Core EUR Govt Bond UCITS ETF EUR (Dist)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 40,
+    "contest_label": "Money market (cash) OVERNIGHT CASH",
+    "isin": "LU1190417599",
+    "name": "Amundi Smart Overnight Return UCITS ETF EUR (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 41,
+    "contest_label": "Defensive sector DEFENSE",
+    "isin": "IE000YYE6WK5",
+    "name": "VanEck Defense UCITS ETF A",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 42,
+    "contest_label": "Defensive sector STAPLES",
+    "isin": "IE00BM67HN09",
+    "name": "Xtrackers MSCI World Consumer Staples UCITS ETF 1C",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 43,
+    "contest_label": "Digital assets BITCOIN",
+    "isin": "XS2940466316",
+    "name": "iShares Bitcoin ETP",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 44,
+    "contest_label": "Digital assets CRYPTO EQUITY",
+    "isin": "IE00BMDKNW35",
+    "name": "VanEck Crypto and Blockchain Innovators UCITS ETF USD (Acc)",
+    "leveraged_or_inverse": false
+  },
+  {
+    "number": 45,
+    "contest_label": "Leveraged & inverse STOXX SHORT",
+    "isin": "FR0010424143",
+    "name": "Amundi EURO STOXX 50 Daily (-2x) Inverse UCITS ETF Acc",
+    "leveraged_or_inverse": true
+  },
+  {
+    "number": 46,
+    "contest_label": "Leveraged & inverse COPPER LVG",
+    "isin": "IE00B8JVMZ80",
+    "name": "WisdomTree Copper 3x Daily Leveraged",
+    "leveraged_or_inverse": true
+  },
+  {
+    "number": 47,
+    "contest_label": "Leveraged & inverse PALLADIUM LVG",
+    "isin": "IE00B94QLN63",
+    "name": "WisdomTree Palladium 2x Daily Leveraged",
+    "leveraged_or_inverse": true
+  },
+  {
+    "number": 48,
+    "contest_label": "Leveraged & inverse NASDAQ 3X",
+    "isin": "IE00BLRPRL42",
+    "name": "WisdomTree NASDAQ 100 3x Daily Leveraged",
+    "leveraged_or_inverse": true
+  },
+  {
+    "number": 49,
+    "contest_label": "Leveraged & inverse S&P 500 SHORT",
+    "isin": "LU0322251520",
+    "name": "Xtrackers S&P 500 Inverse Daily Swap UCITS ETF 1C",
+    "leveraged_or_inverse": true
+  },
+  {
+    "number": 50,
+    "contest_label": "Leveraged & inverse EURO STOXX 2X",
+    "isin": "FR0010468983",
+    "name": "Amundi EURO STOXX 50 Daily (2x) Leveraged UCITS ETF Acc",
+    "leveraged_or_inverse": true
+  }
+]

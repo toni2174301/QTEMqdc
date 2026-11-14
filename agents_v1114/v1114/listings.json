@@ -1,0 +1,302 @@
+{
+  "IE00B4L5Y983": {
+    "symbol": "EUNL.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B5BMR087": {
+    "symbol": "SXR8.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "LU0908500753": {
+    "symbol": "LYP6.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B53L3W79": {
+    "symbol": "SXRT.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "FR0010655746": {
+    "symbol": "AMES.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "FR0000021842": {
+    "symbol": "BEL.BR",
+    "mic": "XBRU",
+    "currency": "EUR",
+    "identity_source": "https://www.amundietf.de/de/privatanleger/products/equity/amundi-bel-20-ucits-etf-dist/fr0000021842"
+  },
+  "IE00BF4RFH31": {
+    "symbol": "IUSN.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B8FHGS14": {
+    "symbol": "IQQ0.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "NL0011683594": {
+    "symbol": "VDIV.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE000U9J8HX9": {
+    "symbol": "JEQP.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B53SZB19": {
+    "symbol": "SXRV.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE000I8KRLL9": {
+    "symbol": "SEC0.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BYPLS672": {
+    "symbol": "USPY.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BQ70R696": {
+    "symbol": "NBTK.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BYZK4552": {
+    "symbol": "2B76.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE000YU9K6K2": {
+    "symbol": "JEDI.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE0007Y8Y157": {
+    "symbol": "QUTM.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "LU1829219390": {
+    "symbol": "LYBK.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BM67HK77": {
+    "symbol": "XDWH.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BKM4GZ66": {
+    "symbol": "IS3N.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B02KXK85": {
+    "symbol": "IQQC.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BZCQB185": {
+    "symbol": "QDV5.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "LU1900066975": {
+    "symbol": "LKOR.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B0M63516": {
+    "symbol": "IQQB.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BQT3WG13": {
+    "symbol": "36BZ.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BM67HM91": {
+    "symbol": "XDW0.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B6R51Z18": {
+    "symbol": "IS0D.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE000M7V94E1": {
+    "symbol": "NUKL.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BK5BCH80": {
+    "symbol": "RENW.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "FR0010930644": {
+    "symbol": "AMEE.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE0003Z9E2Y3": {
+    "symbol": "4COP.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE0002PG6CA6": {
+    "symbol": "VVMX.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B4ND3602": {
+    "symbol": "PPFB.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BQQP9F84": {
+    "symbol": "G2X.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE000UL6CLP7": {
+    "symbol": "SLVR.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "LU1109942653": {
+    "symbol": "XHYG.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "LU1407890620": {
+    "symbol": "DJAD.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BG47KH54": {
+    "symbol": "VAGF.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B4WXJJ64": {
+    "symbol": "EUNH.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "LU1190417599": {
+    "symbol": "LYOR.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE000YYE6WK5": {
+    "symbol": "DFEN.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BM67HN09": {
+    "symbol": "XDWS.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "XS2940466316": {
+    "symbol": "IB1T.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00BMDKNW35": {
+    "symbol": "DAVV.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "FR0010424143": {
+    "symbol": "LSK8.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "IE00B8JVMZ80": {
+    "symbol": "3HCL.MI",
+    "mic": "XMIL",
+    "currency": "EUR",
+    "identity_source": "https://www.borsaitaliana.it/borsa/etc-etn/scheda/IE00B8JVMZ80-ETFP.html?lang=en"
+  },
+  "IE00B94QLN63": {
+    "symbol": "2PAL.MI",
+    "mic": "XMIL",
+    "currency": "EUR",
+    "identity_source": "https://www.borsaitaliana.it/borsa/etc-etn/scheda/IE00B94QLN63-ETFP.html?lang=en"
+  },
+  "IE00BLRPRL42": {
+    "symbol": "QQQ3.MI",
+    "mic": "XMIL",
+    "currency": "EUR",
+    "identity_source": "https://www.wisdomtree.eu/de-de/etps/equities/wisdomtree-nasdaq-100-3x-daily-leveraged"
+  },
+  "LU0322251520": {
+    "symbol": "DXS3.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  },
+  "FR0010468983": {
+    "symbol": "LYMZ.DE",
+    "mic": "XETR",
+    "currency": "EUR",
+    "identity_source": "https://www.cashmarket.deutsche-boerse.com/resource/blob/1528/2ecdd46ed6dca90fbfc8575d5a21fb4b/data/t7-xetr-allTradableInstruments.csv"
+  }
+}
